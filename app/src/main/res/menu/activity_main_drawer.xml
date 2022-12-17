@@ -29,6 +29,12 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_Busqueda" />
 
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="@string/login_login_login" />
+
+
 
     </group>
 </menu>

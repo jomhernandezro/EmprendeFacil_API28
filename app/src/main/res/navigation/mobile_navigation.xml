@@ -28,4 +28,13 @@
         android:name="com.emprendefacil_api28.ui.galeria.GaleriaFragment"
         android:label="@string/menu_Galeria"
         tools:layout="@layout/fragment_galeria" />
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.emprendefacil_api28.ui.login.LoginFragment"
+        android:label="@string/login_login_login"
+        tools:layout="@layout/fragment_login" />
+
+
+
 </navigation>
